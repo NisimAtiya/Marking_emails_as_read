@@ -21,3 +21,4 @@ Gmail Email Marker is a Python script that allows users to mark unread emails in
 ## 
 
 Please feel free to submit pull requests or open issues for any bug fixes, feature requests, or improvements.
+© Nisim Atiya
