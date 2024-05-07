@@ -18,7 +18,6 @@ Gmail Email Marker is a Python script that allows users to mark unread emails in
 - Python 3.x
 - `pip` package manager
 
-## Configuration
-You can modify the SCOPES variable in the mark_emails_as_read.py file to change the permissions required by the script.
-Adjust other parameters as needed to customize the script's behavior.
+## 
+
 Please feel free to submit pull requests or open issues for any bug fixes, feature requests, or improvements.
